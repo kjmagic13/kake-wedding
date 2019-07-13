@@ -15,9 +15,9 @@ We will be setting sail on October 19th, 2020 from Port Canaveral, FL at 3:45 pm
 
 We have not blocked off any staterooms so feel free to book early! We will be in Stateroom 8070 (Deck 8, Mid ship) if you would like to book a room close by!
 
-Formal invitation to come soon with RSVP’s. 
+Formal invitation to come soon with RSVP’s.
 
-If you are unable to join us ashore, we completely understand! Which is why we will also be hosting an at home reception party upon our return. Stay posted for details.
+If you are unable to join us aboard, we completely understand! Which is why we will also be hosting an at home reception party upon our return. Stay posted for details.
 
 * [4-Night Halloween on the High Seas Bahamian Cruise from Port Canaveral](https://disneycruise.disney.go.com/cruises-destinations/list/DF0452/4-night-halloween-on-the-high-seas-bahamian-cruise-from-port-canaveral/october-19-2020-disney-fantasy/){:target="_blank"}
 
