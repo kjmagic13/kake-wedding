@@ -12,6 +12,7 @@ We will be setting sail on October 19th, 2020 from Port Canaveral, FL at 3:45 pm
 * __Ship:__ Disney Fantasy
 * __Port:__ Port Canaveral, FL
 * __Date:__ October 19th, 2020 onboard at 3:45 PM, Returning October 23rd, 2020 at 7:30 AM
+* __Dining:__ SECOND - <em class="small">We'll collect reservation numbers and coordinate with the Cruise line to get everyone on the same plan<em>
 
 We have not blocked off any staterooms so feel free to book early! We will be in Stateroom 8070 (Deck 8, Mid ship) if you would like to book a room close by!
 
