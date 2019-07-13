@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:100,300,400&display=swap');
+
+html, body {
+  height: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body:after{
+  content:"";
+  position:fixed;
+  top:0;
+  left:0;
+  right:0;
+  height: 100%;
+  z-index:-1;
+
+  background: url('/assets/images/flower.jpg') bottom center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
