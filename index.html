@@ -5,25 +5,15 @@ title: "Kevin & Kalyn's Wedding Website"
 layout: default
 ---
 
+<div class="text-center">
+  <a href="/rsvp" title="RSVP" class="btn btn-lg btn-outline-dark mb-3">
+    Répondez s'il vous plaît
+  </a>
+  <hr>
+</div>
+
 {% for post in site.posts %}
 
-<h2 class="">
-  {{ post.title }}
-</h2>
-
-<div class="d-flex align-item-center justify-content-between text-muted mb-3">
-  <small>{{ post.date | date_to_long_string }}</small>
-  <ul class="list-inline mb-0">
-    {% for cat in post.categories %}
-    <li class="badge badge-pill badge-light">{{ cat }}</li>
-    {% endfor %}
-  </ul>
-</div>
-
-<div class="">
-  {{ post.content }}
-</div>
-
-<hr>
+{% include post.html post=post %}
 
 {% endfor %}

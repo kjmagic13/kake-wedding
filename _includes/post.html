@@ -1,0 +1,24 @@
+<div class="d-sm-flex align-item-center justify-content-between text-muted mb-3">
+  <h2 class="">
+    {{ include.post.title }}
+  </h2>
+
+  <div class="text-sm-right">
+    <small class="d-block">
+      Posted:
+      {{ include.post.date | date_to_long_string }}
+    </small>
+
+    <ul class="list-inline mb-0">
+      {% for cat in include.post.categories %}
+      <li class="badge badge-pill badge-light">{{ cat }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+
+<div class="">
+  {{ include.post.content }}
+</div>
+
+<hr>

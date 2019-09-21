@@ -5,9 +5,10 @@ categories:
   - cruise
 ---
 
+{:.lead}
 Kalyn Donovan and Kevin McCarthy invite you to celebrate with us as we tie the nautical knot aboard the Disney Fantasy cruise ship!
 
-We will be setting sail on October 19th, 2020 from Port Canaveral, FL at 3:45 pm.  Our Wedding Ceremony will be held during the cruise, more details to come so stay posted!
+We will be setting sail on October 19th, 2020 from Port Canaveral, FL at 3:45 pm.  Our Wedding Ceremony is currently scheduled to be held on board, October 20th, 2020.
 
 * __Ship:__ Disney Fantasy
 * __Port:__ Port Canaveral, FL
@@ -16,9 +17,9 @@ We will be setting sail on October 19th, 2020 from Port Canaveral, FL at 3:45 pm
 
 We have not blocked off any staterooms so feel free to book early! We will be in Stateroom 8070 (Deck 8, Mid ship) if you would like to book a room close by!
 
-Formal invitation to come soon with RSVP’s.
+If you are unable to join us aboard, we completely understand! Which is why we will also be hosting an at home celebration upon our return. More details to follow as we get closer to our wedding date.
 
-If you are unable to join us aboard, we completely understand! Which is why we will also be hosting an at home reception party upon our return. Stay posted for details.
+To  book your reservation with Disney Cruise Lines, please visit this link:
 
 * [4-Night Halloween on the High Seas Bahamian Cruise from Port Canaveral](https://disneycruise.disney.go.com/cruises-destinations/list/DF0452/4-night-halloween-on-the-high-seas-bahamian-cruise-from-port-canaveral/october-19-2020-disney-fantasy/){:target="_blank"}
 

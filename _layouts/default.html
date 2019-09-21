@@ -14,11 +14,11 @@
 </head>
 <body>
 
-  {% include navbar.html %}
+  <main id="app" class="d-flex flex-column">
 
-  <main class="d-flex flex-column">
+    {% include navbar.html %}
 
-    <section class="py-3 my-5">
+    <section class="py-3 my-5 order-sm-1">
       <div class="container text-center">
 
         <a href="/" class="list-group-item-action">
@@ -30,7 +30,7 @@
     </section>
 
     {% if page.content != "" %}
-    <section class="py-5 my-auto">
+    <section class="py-5 my-auto order-sm-12">
       <div class="container">
 
         <div class="p-5 bg-white">
@@ -45,9 +45,23 @@
 
   <!-- Optional JavaScript -->
   <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+  <script src="https://unpkg.com/vue@2.6.10/dist/vue.min.js"></script>
+  <script src="https://unpkg.com/babel-polyfill@6.26.0/dist/polyfill.min.js"></script>
+
+  {% if jekyll.environment == "development" %}
+  <script src="http://localhost:8080/app.js?v={{ site.time | date: '%s' }}"></script>
+  {% else %}
+  <script src="/assets/js/rsvp-form/RsvpForm.umd.min.js?v={{ site.time | date: '%s' }}"></script>
+  {% endif %}
+
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+  <script type="text/javascript">
+  Vue.use(RsvpForm)
+  new Vue().$mount('#app');
+  </script>
 
 </body>
 </html>
